@@ -1,4 +1,4 @@
-package com.gilani;
+package codes.gilani;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
